@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{f34edd88-8716-4be5-953d-c42d16682a62}">
+		<property name="assetPath">
+			<value>elijah who - skateboard p.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>233.3257142857143</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b75bb6d2-6d95-4078-b774-e5071e4d3085}</destination>
+		</relationship>
+	</object>
+</objects>
